@@ -4,6 +4,13 @@ Velkommen til workshop med EikLab!
 
 I dag skal vi lage en [Temperature Sensor Coaster](https://projecthub.arduino.cc/jensmalmgren/90452a6a-0b24-4c94-8fb2-4dd2b91225d7). I dette repoet finner du filene du trenger for å gjennomføre prosjektet.
 
+## Konfigurering
+
+For å endre på top temperatur må du endre på variabelene på linje 66 og 74.
+For å endre på bunn temperatur må du endre på variablene på linje 70 og 75.
+
+Pins osv kan du konfigurere ved å endre på variablene mellom linje 12-18.
+
 ## Veien videre
 
 Fikk du mer-smak? Klør det i fingerne etter å kode mer?
