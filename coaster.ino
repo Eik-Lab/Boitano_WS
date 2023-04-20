@@ -10,7 +10,7 @@
 //D8 > Green Led (+), Green Led (-) > 560 Ohm > GND
 //D9  > Red Led (+), Red Led (-) > 640 Ohm > GND
 
-int iPinTemperature = 0;
+int iPinTemperature = 1;
 int iTemperatureReading;
 int iPinLedRed = 9;
 int iPinLedGreen = 8;
